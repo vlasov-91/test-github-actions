@@ -9,7 +9,7 @@ on:
     branches: master
     
   schedule:
-    - cron: 12 12 * * *
+    - cron: 13 13 * * *
   # Run job every day at 12:00 UTC
   #  - cron: 0 0 * * *
   # Run job every day at 00:00 UTC
